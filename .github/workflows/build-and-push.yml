@@ -24,3 +24,7 @@ jobs:
         context: .
         push: true
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/oral-cancer-app:latest
+
+
+
+  
