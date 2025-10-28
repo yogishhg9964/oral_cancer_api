@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Use a fresh Linux server from GitHub
+    runs-on: ubuntu-latest # Use a fresh Linux server from github
 
     steps:
     - name: Checkout repository
